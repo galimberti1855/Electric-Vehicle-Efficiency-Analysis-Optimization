@@ -1,3 +1,6 @@
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/a792b552-70ca-49d7-9e2b-1486281572a9" />
+
+
 README.md
 
 EV Efficiency & Range Prediction Dashboard
